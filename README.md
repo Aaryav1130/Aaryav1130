@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi 👋 I'm Aaryav Chaudhary
 
-<!--
-**Aaryav1130/Aaryav1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science & ML Enthusiast
 
-Here are some ideas to get you started:
+- 🌍 India
+- 🎓 B.Tech CSE @ IIIT Bhopal
+- 🤖 Learning ML & MLOps
+- 🤝 Open to collaborations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,vscode,mysql,postgres,pytorch,tensorflow" />
+</p>
+
+---
+
+## 🌐 Socials
+<p align="left">
+  <a href="https://github.com/Aaryav1130">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/aaryav-chaudhary/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.kaggle.com/aaryavchaudhary">
+    <img src="https://skillicons.dev/icons?i=kaggle" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4)
