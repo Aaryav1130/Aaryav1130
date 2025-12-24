@@ -3,8 +3,7 @@
 ### Data Science & ML Enthusiast
 
 - 🌍 I'm based in India
-- ✉️ You can contact me at <a href="aaryav1130@gmail.com">
-  </a>
+- ✉️ You can contact me at aaryav1130@gmail.com
 - 🎓 B.Tech CSE @ IIIT Bhopal
 - 🤖 Learning ML & MLOps
 - 🤝 Open to collaborations
