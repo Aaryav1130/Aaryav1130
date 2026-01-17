@@ -10,10 +10,27 @@
 
 ---
 
-## 🛠 Skills
+## 🌐 Skills and Technologies
+
+### 🧑‍💻 Programming Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,vscode,mysql,postgres,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" />
 </p>
+
+### ⚙️ Frameworks, Libraries & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,flask,mysql,mongodb,postgres,npm,tensorflow,pytorch" />
+</p>
+
+### 🛠️ Tools and Other Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,git,windows,android,html,css,tableau,postman,vscode,r,jupyter,canva" />
+</p>
+
+
 
 ---
 
