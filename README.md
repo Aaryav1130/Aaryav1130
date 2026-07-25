@@ -12,13 +12,6 @@
 - 🤝 Open to collaborations and Job opportunities
 - ✉️ Reach me at **aaryav1130@gmail.com**
 
----
-
-## 🚀 Featured Project
-
-<a href="https://github.com/Aaryav1130/rag-chatbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryav1130&repo=rag-chatbot&theme=tokyonight&hide_border=true" />
-</a>
 
 ---
 
