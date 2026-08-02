@@ -84,29 +84,27 @@
 
 <br/>
 
+
 ## 🚀 Featured Projects
-
-> Replace these with your strongest 3 repos — recruiters check this section first. Pin the same repos on your profile (top of your GitHub page → "Customize your pins") so they show up twice.
-
+ 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| **Project Name 1** | One-line outcome-focused description — what it does & impact | `Python` `LangGraph` `FAISS` | [Repo →](https://github.com/Aaryav1130) |
-| **Project Name 2** | One-line outcome-focused description — what it does & impact | `FastAPI` `Docker` `Postgres` | [Repo →](https://github.com/Aaryav1130) |
-| **Project Name 3** | One-line outcome-focused description — what it does & impact | `React` `Next.js` `MongoDB` | [Repo →](https://github.com/Aaryav1130) |
-
+| **RecruitmentAgent** | AI-driven recruitment platform — RAG-powered resume ATS scoring, 3-tier multi-platform job search, and live AI-avatar mock interviews with post-session feedback reports | `Python` `LangChain` `Groq` `FAISS` `LiveKit` `Streamlit` | [Repo →](https://github.com/Aaryav1130/RecruitmentAgent) |
+| **AI Data Analyst** | Conversational data-analysis platform — upload a CSV and ask questions in plain English to get insights, auto-generated charts, anomaly detection, and SQL/Pandas code | `Python` `FastAPI` `React` `Gemini` `Docker` | [Repo →](https://github.com/Aaryav1130/AI-Data-Analyst) |
+| **Yatra-Vritta** | AI-powered travel platform unifying medical tourism, MICE events, and destination-wedding planning behind a custom ML ranking engine for recommending destinations | `Node.js` `Next.js` `TypeScript` `Python` `MongoDB` | [Repo →](https://github.com/Aaryav1130/Yatra-Vritta) |
+ 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaryav1130&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryav1130&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-pi-three.vercel.app/api?username=Aaryav1130&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-pi-three.vercel.app/api/top-langs/?username=Aaryav1130&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Aaryav1130&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
-
 
 <br/>
 
