@@ -91,7 +91,7 @@
 |---|---|---|---|
 | **RecruitmentAgent** | AI-driven recruitment platform — RAG-powered resume ATS scoring, 3-tier multi-platform job search, and live AI-avatar mock interviews with post-session feedback reports | `Python` `LangChain` `Groq` `FAISS` `LiveKit` `Streamlit` | [Repo →](https://github.com/Aaryav1130/RecruitmentAgent) |
 | **AI Data Analyst** | Conversational data-analysis platform — upload a CSV and ask questions in plain English to get insights, auto-generated charts, anomaly detection, and SQL/Pandas code | `Python` `FastAPI` `React` `Gemini` `Docker` | [Repo →](https://github.com/Aaryav1130/AI-Data-Analyst) |
-| **Yatra-Vritta** | AI-powered travel platform unifying medical tourism, MICE events, and destination-wedding planning behind a custom ML ranking engine for recommending destinations | `Node.js` `Next.js` `TypeScript` `Python` `MongoDB` | [Repo →](https://github.com/Aaryav1130/Yatra-Vritta) |
+| **Trip.AI** | An AI-powered travel itinerary generator with an interactive map, real cost estimates, and a Vanta Punk editorial design language. Plan trips by destination, dates, budget, and interests. | `Node.js` `Next.js` `TypeScript` `Python` `MongoDB` | [Repo →](https://github.com/Aaryav1130/Trip.AI) |
  
 <br/>
 
