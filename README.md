@@ -17,7 +17,7 @@
 
 - 🎓 B.Tech in Computer Science (AI/ML focus) @ **IIIT Bhopal**
 - 🔭 Currently building **Retrieval-Augmented Generation (RAG) pipelines** and **LLM-powered applications**
-- 🤝 Open to **internships, collaborations, and full-time AI/ML roles**
+- 🤝 Open to **internships and full-time AI/ML roles**
 - 📫 Reach me at **aaryav1130@gmail.com**
 
 <br/>
