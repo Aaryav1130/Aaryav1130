@@ -24,7 +24,7 @@
 
 ## 🛠️ Tech Stack
 
-**AI / ML & Generative AI**
+**AI/ML & Generative AI**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
