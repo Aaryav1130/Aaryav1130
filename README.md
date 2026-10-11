@@ -127,7 +127,9 @@
 <br/>
 
 <div align="center">  
-<img src="https://komarev.com/ghpvc/?username=Aaryav1130&label=Profile%20views&style=for-the-badge&color=6E40C9" alt="Profile views"/>
+
+<img src="https://img.shields.io/badge/Profile%20views-Visitors-6E40C9?style=for-the-badge" alt="Profile views"/>
+
   <br/>
-  <i>Thanks for stopping by — let's build something with LLMs 🚀</i>
+  <i>Thanks for stopping by — let's build something Useful together.. 🚀</i>
 </div>
