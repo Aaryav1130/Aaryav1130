@@ -1,5 +1,13 @@
 <div align="center">
 
+  <img
+    src="./assets/cyberpunk-header.svg"
+    alt="Cyberpunk AI and ML banner"
+    width="100%"
+  />
+
+  <br/>
+   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aaryav+Chaudhary;AI+%26+ML+Engineer;RAG+%7C+LLMs+%7C+MLOps+Builder;B.Tech+CSE+%40+IIIT+Bhopal" alt="Typing SVG" />
 
 <p>
@@ -12,7 +20,13 @@
 </div>
 
 <br/>
+<div align="center">
+  <img src="./assets/neon-divider.svg"
+       alt="Neon circuit divider"
+       width="100%"/>
+</div>
 
+<br/>
 ## 🧠 About Me
 
 - 🎓 B.Tech in Computer Science (AI/ML focus) @ **IIIT Bhopal**
@@ -21,7 +35,13 @@
 - 📫 Reach me at **aaryav1130@gmail.com**
 
 <br/>
+<div align="center">
+  <img src="./assets/neon-divider.svg"
+       alt="Neon circuit divider"
+       width="100%"/>
+</div>
 
+<br/>
 ## 🛠️ Tech Stack
 
 **AI/ML & Generative AI**
@@ -83,7 +103,13 @@
 
 <br/>
 
+<div align="center">
+  <img src="./assets/neon-divider.svg"
+       alt="Neon circuit divider"
+       width="100%"/>
+</div>
 
+<br/>
 ## 🚀 Featured Projects
  
 | Project | Description | Tech Stack | Link |
@@ -93,7 +119,13 @@
 | **Trip.AI** | An AI-powered travel itinerary generator with an interactive map, real cost estimates, and a Vanta Punk editorial design language. Plan trips by destination, dates, budget, and interests. | `Node.js` `Next.js` `TypeScript` `Python` `MongoDB` | [Repo →](https://github.com/Aaryav1130/Trip.AI) |
  
 <br/>
+<div align="center">
+  <img src="./assets/neon-divider.svg"
+       alt="Neon circuit divider"
+       width="100%"/>
+</div>
 
+<br/>
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -106,7 +138,13 @@
 </div>
 
 <br/>
+<div align="center">
+  <img src="./assets/neon-divider.svg"
+       alt="Neon circuit divider"
+       width="100%"/>
+</div>
 
+<br/>
 ## 🌐 Connect With Me
 
 <p align="left">
